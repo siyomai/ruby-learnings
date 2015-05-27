@@ -18,6 +18,3 @@ class Sorting
     return @odd.sort
   end
 end
-
-puts Sorting.new([1,5,3,6,2,8]).even
-puts Sorting.new([1,5,3,6,2,8]).odd
